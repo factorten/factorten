@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @factorten
 - 👀 I’m just getting started on the coding journey
-- 🌱 I’m currently learning responsive web design through FreeCodeCamp and The Odin Project
+- 🌱 I’m currently learning Python
+- 🌱 Next I plan to complete the curriculum on responsive web design through FreeCodeCamp and The Odin Project
 - 💞️ I’m looking to collaborate on something when I'm competent enough!
 - 📫 factor10@protonmail.com
 
